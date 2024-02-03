@@ -1,0 +1,8 @@
+cabal-version:       3.0
+name:                bar
+version:             0.1.0.0
+
+executable bar
+  main-is:             bar.hs
+  build-depends:       base >= 4.13
+                     , flow

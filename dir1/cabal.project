@@ -1,0 +1,6 @@
+packages: .
+
+with-compiler: ghc-9.4.8
+
+package bar
+  flags: +all_extensions

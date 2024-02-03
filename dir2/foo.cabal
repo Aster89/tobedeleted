@@ -1,0 +1,8 @@
+cabal-version:       3.0
+name:                foo
+version:             0.1.0.0
+
+executable foo
+  main-is:             foo.hs
+  build-depends:       base >= 4.13
+                     , text
